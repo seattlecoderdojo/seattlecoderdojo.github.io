@@ -3,8 +3,6 @@
 layout: home
 ---
 
-## Welcome to the Hacker Room!
-
 This web portal exists as a collection of resources for students (and parents)
 to find their way through the wonderful world of computer programming. Our goal
 is **to give students the resources and help they need in order to work on
