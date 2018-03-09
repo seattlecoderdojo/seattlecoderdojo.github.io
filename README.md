@@ -12,13 +12,13 @@ gem install jekyll bundler
 ### To add a Tutorial
 1. Create a new markdown file in `_tutorials`
 2. At the head of the file, be sure to populate the following information:
-```
+```yaml
 ---
 title: Your fancy title here
 difficulty: intermediate
 language: javascript
-tags: aws fancy cool
 estimate: '1 hour'
 ---
 ```
-... be sure to only pick 1 difficulty and language, but tags can be a list.
+... be sure to only pick 1 difficulty and language. The site indexes by these
+two tags. Estimate is optional, but why not.
