@@ -7,14 +7,11 @@ layout: default
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
 
+
   <div class="post-content">
     {{ content }}
   </div>
 
-  {% if page.tags.size > 0 %}
-  <div class="post-footer">
-    <p class="post-meta">tags: {{ page.tags | join: ", " }}</p>
-  </div>
-  {% endif %}
+  <p class="post-meta">languages: {{ page.languages | join: ", " }}</p>
 
 </article>
