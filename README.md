@@ -1,6 +1,7 @@
 ## Hackers - the hacker room website
 
 ### Contributing
+If you want to run the develoment server locally:
 1. Clone this repository
 2. Install ruby (if you somehow don't have it)
 3. Set up Jekyll:
@@ -16,9 +17,9 @@ gem install jekyll bundler
 ---
 title: Your fancy title here
 difficulty: intermediate
-language: javascript
+languages: javascript ruby python
 estimate: '1 hour'
 ---
 ```
-... be sure to only pick 1 difficulty and language. The site indexes by these
-two tags. Estimate is optional, but why not.
+You can pick 1 difficulty, but any number of languages (sepearted by spaces.)
+Estimate is optional, but why not.

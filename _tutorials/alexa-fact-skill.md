@@ -1,7 +1,7 @@
 ---
 title: Alexa Fact Skill
 difficulty: intermediate
-language: javascript
+languages: javascript
 estimate: '1 hour'
 ---
 

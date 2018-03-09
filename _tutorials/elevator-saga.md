@@ -1,7 +1,7 @@
 ---
 title: Elevator Saga
 difficulty: intermediate
-language: javascript
+languages: javascript
 estimate: '1 hour'
 ---
 

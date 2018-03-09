@@ -1,7 +1,7 @@
 ---
 title: Ruby on Rails
 difficulty: advanced
-language: ruby
+languages: ruby
 ---
 
 Ruby on Rails is a Web Framework written in Ruby.
